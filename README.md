@@ -1,10 +1,9 @@
 # diatomrecognition
-<<<<<<< HEAD
+
 ## Module for diatom recognition
 =======
 Module for diatom recognition
 
->>>>>>> cc5a163f030950331ac862e0ee325edc45cb1ca6
 Project Milestones:
 
 - [ ] Getting acquainted with Python

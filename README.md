@@ -4,9 +4,9 @@
 
 Project Milestones:
 
-- [ ] Getting acquainted with Python
-- [ ] Read raw images in Python, operations on image (resizing, cropping, color change, etc)
-- [ ] Image annotations
+- [x] Getting acquainted with Python
+- [x] Read raw images in Python, operations on image (resizing, cropping, color change, etc)
+- [ ] Image annotations (Using https://github.com/tzutalin/labelImg)
 - [ ] Operations of Image cont.
 - [ ] Feature extraction, feature engineering
 - [ ] Feature engineering cont.
